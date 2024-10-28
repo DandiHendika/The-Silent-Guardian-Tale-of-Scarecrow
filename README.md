@@ -7,5 +7,5 @@ Cara upload files ke github : https://marief-ismirianda.medium.com/tutorial-inte
 <br>
 <br>
 <b>NOTE:</b><br>
-<b>untuk setiap push pastikan summary nya jelas tentang apa yang dipush</b><br>
-<b>Pastikan kalian push file ke folder yang benar atau kalian bisa buat folder baru terlebih dahulu</b>
+<b>-untuk setiap push pastikan summary nya jelas tentang apa yang dipush</b><br>
+<b>-Pastikan kalian push file ke folder yang benar atau kalian bisa buat folder baru terlebih dahulu</b>
